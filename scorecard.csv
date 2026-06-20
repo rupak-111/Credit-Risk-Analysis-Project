@@ -1,0 +1,44 @@
+characteristic,attribute,count,woe,points
+dsr,"(0.057999999999999996, 0.303]",1501,0.738,81
+dsr,"(0.303, 0.399]",1511,0.424,75
+dsr,"(0.399, 0.495]",1492,0.418,75
+dsr,"(0.495, 0.624]",1498,0.173,71
+dsr,"(0.624, 0.817]",1504,0.031,68
+dsr,"(0.817, 1.5]",1494,-1.049,49
+tu_credit_score,"(418.999, 618.0]",1533,-1.544,39
+tu_credit_score,"(618.0, 654.0]",1492,-0.183,64
+tu_credit_score,"(654.0, 679.0]",1482,0.403,75
+tu_credit_score,"(679.0, 703.0]",1537,0.805,82
+tu_credit_score,"(703.0, 729.0]",1465,1.269,91
+tu_credit_score,"(729.0, 850.0]",1491,1.97,103
+delinq_24m,0,6361,0.54,77
+delinq_24m,1,1406,-0.11,66
+delinq_24m,2,707,-0.988,49
+delinq_24m,3,364,-1.64,38
+delinq_24m,4,162,-2.488,22
+monthly_income_hkd,"(8999.999, 16000.0]",1511,-0.173,64
+monthly_income_hkd,"(16000.0, 20200.0]",1503,-0.087,66
+monthly_income_hkd,"(20200.0, 24500.0]",1559,0.005,68
+monthly_income_hkd,"(24500.0, 29200.0]",1431,-0.084,66
+monthly_income_hkd,"(29200.0, 36900.0]",1509,0.194,72
+monthly_income_hkd,"(36900.0, 162200.0]",1487,0.184,72
+employment_years,"(-0.001, 2.3]",1519,-0.291,59
+employment_years,"(2.3, 3.9]",1490,-0.102,65
+employment_years,"(3.9, 5.4]",1557,-0.045,66
+employment_years,"(5.4, 7.3]",1462,0.064,69
+employment_years,"(7.3, 10.1]",1482,0.135,72
+employment_years,"(10.1, 35.0]",1490,0.333,77
+loan_to_income,"(0.067, 0.312]",1500,0.385,62
+loan_to_income,"(0.312, 0.483]",1501,0.137,66
+loan_to_income,"(0.483, 0.774]",1499,-0.035,68
+loan_to_income,"(0.774, 1.454]",1500,-0.231,71
+loan_to_income,"(1.454, 5.125]",1500,-0.413,74
+loan_to_income,"(5.125, 18.206]",1500,0.34,63
+product_type,Credit Card,2704,-0.087,65
+product_type,Mortgage,2122,0.517,86
+product_type,Personal Loan,3100,0.146,73
+product_type,SME Facility,1074,-0.778,41
+residential_status,Living with Family,926,-0.19,61
+residential_status,Owner,3790,0.19,74
+residential_status,Private Rental,2656,-0.099,64
+residential_status,Public Housing,1628,-0.124,63

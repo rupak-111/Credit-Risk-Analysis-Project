@@ -1,0 +1,29 @@
+{
+  "portfolio_rows": 12000,
+  "default_rate": 0.13591666666666666,
+  "model_comparison": {
+    "Logistic Regression": {
+      "AUC": 0.842,
+      "Gini": 0.684,
+      "KS": 0.516,
+      "AP": 0.532
+    },
+    "Random Forest": {
+      "AUC": 0.835,
+      "Gini": 0.67,
+      "KS": 0.502,
+      "AP": 0.512
+    },
+    "Gradient Boosting": {
+      "AUC": 0.826,
+      "Gini": 0.652,
+      "KS": 0.486,
+      "AP": 0.499
+    }
+  },
+  "scorecard_auc": 0.826,
+  "scorecard_ks": 0.51,
+  "scorecard_gini": 0.651,
+  "policy_E_approval_rate": 0.854,
+  "policy_E_bad_capture": 0.5
+}

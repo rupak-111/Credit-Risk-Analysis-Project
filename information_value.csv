@@ -1,0 +1,26 @@
+feature,IV,strength
+tu_credit_score,1.238821798945914,Very strong
+delinq_24m,0.6512897540879584,Very strong
+ever_delinquent,0.4218991189777741,Strong
+dsr_headroom,0.3843149691695197,Strong
+dsr,0.3826528677008302,Strong
+tenor_months,0.21196131499066115,Medium
+months_since_delinq,0.20418649168306943,Medium
+high_dsr_flag,0.19514967642547293,Medium
+product_type,0.15558490709314482,Medium
+loan_to_income,0.0841381258105163,Weak
+interest_rate_pct,0.07457781704877026,Weak
+employment_sector,0.07072657840991046,Weak
+existing_debt_payment_hkd,0.04713612998518028,Weak
+employment_years,0.03770463167416252,Weak
+loan_amount_hkd,0.03353934287517494,Weak
+num_existing_loans,0.025678677348115388,Weak
+residential_status,0.024145880152322705,Weak
+credit_history_years,0.02346280316631026,Weak
+monthly_income_hkd,0.018932631006299078,Not useful
+total_facilities,0.017489555466493972,Not useful
+age,0.015594143145291055,Not useful
+num_credit_cards,0.005468794902891371,Not useful
+district,0.005126329728547258,Not useful
+is_secured,0.001824509456821985,Not useful
+gender,0.00013623259582217168,Not useful
